@@ -3,12 +3,25 @@ entries:
   ikosql:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-07-13T16:54:57.660178145-04:00"
+    created: "2025-07-13T17:15:02.597127573-04:00"
     description: A Helm chart for IKOSQL for Validating Spectro
     digest: f94e5d331e33b4f75301395ad8483a54b08354403b877d88fc93d7fbee8da725
     name: ikosql
     type: application
     urls:
-    - https://sween.github.io/spectro_iko_iris_smoke/ikosql/ikosql-0.1.0.tgz
+    - https://sween.github.io/spectro_iko_iris_smoke/ikosql-0.1.0.tgz
     version: 0.1.0
-generated: "2025-07-13T16:54:57.659656776-04:00"
+  iris-operator:
+  - apiVersion: v1
+    appVersion: 3.3.0.120
+    created: "2025-07-13T17:15:02.597747182-04:00"
+    description: IRIS Operator by InterSystems
+    digest: 2284f508c901012ee58b4fe165218da7295742dae6fe498e28ce7b1fd23b3e23
+    maintainers:
+    - email: support@intersystems.com
+      name: intersystems
+    name: iris-operator
+    urls:
+    - https://sween.github.io/spectro_iko_iris_smoke/iris-operator-3.3.0.tgz
+    version: 3.3.0
+generated: "2025-07-13T17:15:02.596853989-04:00"
