@@ -3,7 +3,7 @@ entries:
   ikosql:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-07-14T08:41:05.165806342-04:00"
+    created: "2025-07-14T08:45:21.161281794-04:00"
     description: A Helm chart for IKOSQL for Validating Spectro
     digest: 66794562828ac5357f62ff6e682650978fd38fe2eaad319da8f5b3034a4834a7
     name: ikosql
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://sween.github.io/spectro_iko_iris_smoke/ikosql-0.1.0.tgz
     version: 0.1.0
-generated: "2025-07-14T08:41:05.165000792-04:00"
+generated: "2025-07-14T08:45:21.160416072-04:00"
