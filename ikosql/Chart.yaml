@@ -24,7 +24,7 @@ version: 0.1.0
 appVersion: "1.16.0"
 
 # This is IKO
-dependencies:
-  - name: iris-operator 
-    version: 3.3.0
-    repository: https://charts.demo.community.intersystems.com
+#dependencies:
+#  - name: iris-operator 
+#    version: 3.3.0
+#    repository: https://charts.demo.community.intersystems.com
